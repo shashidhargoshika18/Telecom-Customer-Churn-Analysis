@@ -61,8 +61,33 @@ Dataset Source: [Kaggle – Telco Customer Churn](https://www.kaggle.com/dataset
 Computer Science and Engineering  
 Vardhaman College of Engineering, Hyderabad
 
-## ⭐ Project Type
+⭐ Project Type
 Data Analytics | Machine Learning | R Programming
+
+📊 Project Visualizations
+
+1. Customer Churn Distribution
+
+This graph shows the distribution of customers who stayed and customers who left the telecom service.
+
+![Customer Churn Distribution](churn_distribution.png)
+
+2. Tenure vs Customer Churn
+
+This graph illustrates the relationship between customer tenure and churn behavior.
+
+![Tenure vs Customer Churn](tenure_vs_churn.png)
+
+📈 Model Performance
+
+| Evaluation Metric | Result |
+|---|---:|
+| Accuracy | 78.98% |
+| Sensitivity | 89.82% |
+| Specificity | 48.93% |
+| Kappa | 0.418 |
+
+
 
 ---
 
